@@ -170,7 +170,7 @@ img {
 }
 
 .circle div {
-    font-size: 0.1em;
+    font-size: 0.5em;
     margin-top: 15px;
     margin-left: 10px;
     color: #727272;
@@ -206,7 +206,7 @@ img {
     margin-top: 5px;
     text-align: center;
     color: #727272;
-    font-size: 0.1em;
+    font-size: 0.5em;
 }
 
 #join {
