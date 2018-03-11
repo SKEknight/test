@@ -64,8 +64,8 @@ div#div1>img {
     border: 1px solid #fff;
     background-color: #fff;
     color: #424242;
-    height: 120px;
-    width: 220px;
+    height: 100px;
+    width: 200px;
     border-radius: 10px;
     text-align: center;
     z-index: 1;
@@ -92,8 +92,8 @@ img {
     border: 1px solid #fff;
     background-color: #fff;
     color: #424242;
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
     border-radius: 10px;
     text-align: center;
     z-index: 1;
@@ -106,8 +106,8 @@ img {
     border: 1px solid #55ea9f;
     background-color: #55ea9f;
     color: #fff;
-    height: 120px;
-    width: 220px;
+    height: 100px;
+    width: 200px;
     border-radius: 10px;
     text-align: center;
     z-index: 1;
@@ -161,8 +161,8 @@ img {
 }
 
 .circle {
-    width: 80px;
-    height: 80px;
+    width: 75px;
+    height: 75px;
     border: 1px solid #e6faff;
     background-color: #e6faff;
     border-radius: 50%;
